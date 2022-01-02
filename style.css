@@ -1,0 +1,16 @@
+body
+{
+  background-color: greenyellow;
+}
+hr {
+  border-style: dotted;
+  background-color: blue;
+  height: 2px;
+
+}
+h3 {
+  color:blueviolet
+}
+h1 {
+    font-size: 100px;
+}
